@@ -29,3 +29,6 @@ Tarea3_Alfaro_Badillo_Cruz_Perez_Rupit_.ipynb
 
 Información 2:
 Ejercicio de probabilidades, de los aciertos que obtendría con diferentes probabilidades mostrando a un "usuario" contenido de "Deportes", "Noticias", "Tecnología" y "Entretenimiento"
+
+Programación:
+Tarea3.2_Alfaro_Badillo_Cruz_Perez_Rupit_.ipynb
