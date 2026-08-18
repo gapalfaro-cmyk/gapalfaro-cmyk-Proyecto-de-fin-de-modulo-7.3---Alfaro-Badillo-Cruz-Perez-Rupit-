@@ -5,7 +5,7 @@ Fecha de entrega: 18 de agosto
 
 # El entregable consiste en **dos actividades** en un notebook reproducible cada uno: 
 
-# Actividad 3.1:*
+# Actividad 3.1:
 Aplicar el algoritmo *Online Gradient Descent* a la base de datos y evaluar su Regret.
 
 1. Descripción del problema
@@ -22,7 +22,7 @@ Programación:
 Tarea3_Alfaro_Badillo_Cruz_Perez_Rupit_.ipynb
 
 
-# Actividad 3.2: *
+# Actividad 3.2: 
 1. Para el entorno estacionario y para el entorno no-estacionario probar con diferentes valores de $\epsilon$ y describir cómo afecta el algoritmo.
 2. Para el entorno estacionario usar tasa de aprendizaje constante y describir lo observado con el desempeño del algoritmo.
 3. Para el entorno no estacionario utilizar como tasa de aprendizaje $1/N(a)$ y describir lo observado con el desempeño del algoritmo.    
